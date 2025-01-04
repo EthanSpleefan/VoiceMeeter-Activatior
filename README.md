@@ -10,10 +10,10 @@ This batch script modifies a registry key to activate the free version of Voicem
 
 ## Important Notes
 
-- This script is intended for personal use only.
+- This script is intended for personal use only. If you use Voicemeeter for work or make money from it then consider paying what you can on the voicemeeter site.
 - Ensure you have a backup of your registry before running the script.
 - Use at your own risk.
 
 ## Disclaimer
 
-This script is provided as-is, without any guarantees. The author is not responsible for any issues that may arise from its use.
+This script is provided as-is, without any guarantees. I am not responsible for any issues that may arise from the use of this script however as of the initial commit date it works and activates the program without error.
